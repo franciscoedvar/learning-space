@@ -6,7 +6,7 @@ Developed at Ubuntu
 ## How to use
 This code was developed at Linux, using Ubuntu 22.04.2 LTS 
 
-### 1.Setup 
+### 1.Setup ([OpenCV Documentation](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html))
 #### Install minimal prerequisites (Ubuntu 18.04 as reference)
 ```
 sudo apt update && sudo apt install -y cmake g++ wget unzip
