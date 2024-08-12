@@ -1,6 +1,6 @@
 # learning-space
 Master Thesis Code in C++ 
-Devloped at Ubuntu
+Developed at Ubuntu
 
 
 ## How to use
