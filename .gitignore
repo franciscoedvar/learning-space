@@ -1,0 +1,5 @@
+# Ignore All CMake Build files that create after run "cmake ."
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+cmake_install.cmake
